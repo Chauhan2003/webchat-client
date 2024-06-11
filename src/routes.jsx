@@ -1,4 +1,4 @@
-export const authAPI = "https://server-chitchat.onrender.com/api/auth";
-export const userAPI = "https://server-chitchat.onrender.com/api/user";
-export const messageAPI = "https://server-chitchat.onrender.com/api/message";
-export const baseURL = "https://server-chitchat.onrender.com";
+export const authAPI = "https://webchat-server-aenq.onrender.com/api/auth";
+export const userAPI = "https://webchat-server-aenq.onrender.com/api/user";
+export const messageAPI = "https://webchat-server-aenq.onrender.com/api/message";
+export const baseURL = "https://webchat-server-aenq.onrender.com";
